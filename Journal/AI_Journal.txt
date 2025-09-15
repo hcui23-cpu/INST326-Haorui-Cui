@@ -1,0 +1,11 @@
+AI Usage Journal
+Haorui Cui
+hcui23@terpmail.umd.edu
+Section 0202
+
+Week 1
+In this week, I did not use AI to help me with any of the exercises. But I did use AI for helping me explain some of the concepts more clearly and provide with some practice examples. For example, I asked ChatGPT with some concept on some basic data types, f-string, and type conversation. The link of my AI chat is: file:///C:/Users/23cui/Downloads/68c783c7-6710-800f-ae41-31dfc18a8d5b.html
+
+Also, I tried to use ChatGPT to help me brainstorm with some of these concepts together for a program idea. This can help me better understand how to use Python to create a project. The link of my AI chat is: file:///C:/Users/23cui/Downloads/68c78709-6968-800f-8459-97c1eac18d6e.html
+
+Besides that, I learned a lot of new information with the assistance of ChatGPT because it can provide some new and clear explanation on the outputs and accuracy. So I think ChatGPT is a good AI tool for me to learn and practice the concept for Python. Although it may provide some information beyond my Python capabilities, as long as I make good use of it and modify some professional terms, it can still have a learning effect on me.
