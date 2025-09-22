@@ -9,3 +9,10 @@ In this week, I did not use AI to help me with any of the exercises. But I did u
 Also, I tried to use ChatGPT to help me brainstorm with some of these concepts together for a program idea. This can help me better understand how to use Python to create a project. The link of my AI chat is: file:///C:/Users/23cui/Downloads/68c78709-6968-800f-8459-97c1eac18d6e.html
 
 Besides that, I learned a lot of new information with the assistance of ChatGPT because it can provide some new and clear explanation on the outputs and accuracy. So I think ChatGPT is a good AI tool for me to learn and practice the concept for Python. Although it may provide some information beyond my Python capabilities, as long as I make good use of it and modify some professional terms, it can still have a learning effect on me.
+
+Week 2
+In this week, I did not use AI to help me with any of the exercises. But I did use ChatGPT to check the concepts and the explanation to the codes. Also, I used ChatGPT for helping me learning with the Python knowledge too. The link of my AI chat is: file:///C:/Users/23cui/Downloads/68d087ff-07bc-800f-b7ca-999b5e30d7e5.html
+
+Besides that, I used ChatGPT to help me learning with some common Python mistakes and how to fix them. The link of my AI chat is: file:///C:/Users/23cui/Downloads/68d08b59-399c-800f-8088-18844238d730.html
+
+Also, when I put some of my past codes in ChatGPT, it analysed and explained to me in a good and clear way. So it made me feel that ChatGPT can provide a lot of explanation on how and why the code works or made the mistakes, and how to fix the codes in the right way. Overall, I think the learning ad checking effect from ChatGPT works for me.
