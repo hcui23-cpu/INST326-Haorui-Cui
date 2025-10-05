@@ -23,3 +23,10 @@ In this week, I did not used AI to help me with any of the exercises. But I did 
 To explore more, I tried to use ChatGPT to comes up with some ways to do a Python project that can track the expenses and view the user's money. The link of my AI chat is: file:///C:/Users/23cui/Downloads/68d9fd4e-807c-800f-bf8a-2c9e2f8f39e4.html
 
 Additionally, I used ChatGPT to combine all the content and knowledge into some useful bullet points or cheatsheets, and that made me think that ChatGPT could be useful for analysis some specfic points into some good and clear ways. So I might try to figure out how it works with different AI models and test them out.
+
+Week 4
+In this week, I did not use AI to help me with any of the exercise. But I did use ChatGPT to help me do some debugging with some exercises and learn some explanation to the code. Also, I asked ChatGPT some questions on the important keywords for Python. The link of my AI chat is: file:///C:/Users/23cui/Downloads/68e2ca4c-f908-800f-9633-ba8712257380.html
+
+In order to learn more, I used ChatGPT to make a Python code that can pull thr keywords so I can know some basics on how to work with the project. The link of my AI chat is: file:///C:/Users/23cui/Downloads/68e2cba7-53e8-800f-b6a1-773b5091f8ae.html
+
+Overall, I think that ChatGPT can able to put some useful knowledge of Python into lists or code examples. So I will continue to use ChatGPT as a useful tool with differet prompts and test them together as several questions. Even though it might shows different results, but as soon as I use some clear words and change with description, it will be a good way to learn Python together.
