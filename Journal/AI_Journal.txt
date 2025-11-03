@@ -50,4 +50,4 @@ In this week, I did not use AI to help me with any of the exercises. But I did u
 
 Also, I used ChatGPT to make some examples on Python code that can help me learn more knowledge on strings. The link of my AI chat is: file:///C:/Users/23cui/Downloads/6907fd48-4ef0-800f-9506-c9e94ad9bfa0.html
 
-After learning with these contents, I think I will continue to use ChatGPT to help me check and fix the errors with debugging to see if there can be more potential fix in Python codes.
+After learning with these contents together, I think I will continue to use ChatGPT to help me check and fix the errors with debugging to see if there can be more potential fix in Python codes.
