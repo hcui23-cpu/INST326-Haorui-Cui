@@ -44,3 +44,10 @@ In this week, I did not use AI to help me with any of the exercises. But I did u
 Also, I used ChatGPT to teach me some ways to better know the types of errors in the code and how to fix them properly. The link of my AI chat is: file:///C:/Users/23cui/Downloads/68fe92f7-f590-800f-9d12-f7219d50cbc4.html
 
 Besides that, ChatGPT is a good tool for me to debugging the codes and discover new Python analysis together. So I will continue to use it as a code fixer and learn through new content.
+
+Week 7
+In this week, I did not use AI to help me with any of the exercises. But I did use ChatGPT to help me do the debugging and asked some questions on how to do better on understanding the error message. The link of my AI chat is: file:///C:/Users/23cui/Downloads/6907f590-651c-800f-aaff-aa9a7fe8f7ca.html
+
+Also, I used ChatGPT to make some examples on Python code that can help me learn more knowledge on strings. The link of my AI chat is: file:///C:/Users/23cui/Downloads/6907fd48-4ef0-800f-9506-c9e94ad9bfa0.html
+
+After learning with these contents, I think I will continue to use ChatGPT to help me check and fix the errors with debugging to see if there can be more potential fix in Python codes.
