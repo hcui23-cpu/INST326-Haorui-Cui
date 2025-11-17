@@ -58,3 +58,10 @@ In this week, I did not use AI to help me with any of the exercises. But I did u
 Besides that, I used ChatGPT to compare ad contrast the differences between different types of debugging, so I can able to know what is the best efficient way to debugging codes. The link of my AI chat is: file:///C:/Users/23cui/Downloads/69113e6a-7c74-800f-99fd-c17d83bbddad.html
 
 Overall, by using ChatGPT as a tool, I can learn and practice more on Python code and improve my debugging skills. So I will use ChatGPT to help me learn and discover more for upcoming Python knowledge. 
+
+Week 9
+In this week, I did not use AI to help me with any of the exercises. But I did use ChatGPT to help me check for the debugging and analysis the code with the Python knowledge. Also, I used ChatGPT to help me list some good ways to write codes with classes and subclasses. The link of my AI chat is: file:///C:/Users/23cui/Downloads/691a7a4a-4200-800f-bb9e-8c1b670da14e.html
+
+Besides that, I used ChatGPT to help me learn the defination of abstract base class and the composition and practice with some exercises. The link of my AI chat is: file:///C:/Users/23cui/Downloads/691a827c-fdc8-800f-b8f7-6c69075f6b80.html
+
+Overall, I feel that I can able to learn a lot by using ChatGPT with the correct prompts. So I will use ChatGPT to learn more when there are new upcoming ideas or skills on Python and practice them with exercises together.
