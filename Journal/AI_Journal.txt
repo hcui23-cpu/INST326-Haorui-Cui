@@ -65,3 +65,10 @@ In this week, I did not use AI to help me with any of the exercises. But I did u
 Besides that, I used ChatGPT to help me learn the defination of abstract base class and the composition and practice with some exercises. The link of my AI chat is: file:///C:/Users/23cui/Downloads/691a827c-fdc8-800f-b8f7-6c69075f6b80.html
 
 Overall, I feel that I can able to learn a lot by using ChatGPT with the correct prompts. So I will use ChatGPT to learn more when there are new upcoming ideas or skills on Python and practice them with exercises together.
+
+Week 10
+In this week, I did not used AI to help me with any of the exercises. But I did use ChatGPT to help me check with the explanation to the code and debugging. Also, I asked ChatGPT to help me learn more on how to write the functions. The link of my AI chat is: file:///C:/Users/23cui/Downloads/69237da7-b2cc-800f-834e-07a918e7e389.html
+
+Also, I used ChatGPT to help me learn how to debugging for different types of functions. The link of my AI chat is: file:///C:/Users/23cui/Downloads/69237efb-acc0-800f-a552-c1eb782afe88.html
+
+Overall, I think that I can able to learn and practice a lot with ChatGPT in different ways. Besides that, I will keep practicing Python codes for both classes and subclasses to make sure I understand their functionality.
