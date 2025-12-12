@@ -79,3 +79,10 @@ In this week, I did not use AI to help me with any of the exercises. But I did u
 Also, I used ChatGPT to analysed different ways to organize the Python project and how to make the classes and subclasses better. The link of my AI chat is: file:///C:/Users/23cui/Downloads/69364b79-2104-800f-8da5-21109639f893.html
 
 Overall, ChatGPT can provide some useful answers and strategies for me to check with the Python project. So I will use ChatGPT as a tool to learn Python knowledge together.
+
+Week 13
+In this week, I did not use AI to help me with any of the exercises. But I did use ChatGPT to help me learn some parts for the Python project. Also, I asked ChatGPT on what ways can make the Python project better. The link of my AI chat is: file:///C:/Users/23cui/Downloads/69363fea-e7cc-800f-99d9-2a6a971c944a.html
+
+Also, I used ChatGPT to analysed different ways to organize the Python project and how to make the classes and subclasses better. The link of my AI chat is: file:///C:/Users/23cui/Downloads/69364b79-2104-800f-8da5-21109639f893.html
+
+Overall, ChatGPT can provide some useful answers and strategies for me to check with the Python project. So I will use ChatGPT as a tool to learn Python knowledge together.
